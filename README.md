@@ -27,6 +27,7 @@ Terminal Technology Department, Alipay, Ant Group.
 ## &#x1F680; EchoMimic Series
 * EchoMimicV1: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning. [GitHub](https://github.com/antgroup/echomimic)
 * EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation. [GitHub](https://github.com/antgroup/echomimic_v2)
+* EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation. [GitHub](https://github.com/antgroup/echomimic_v3)
 
 ## &#x1F4E3; Updates
 * [2024.12.10] 🔥 EchoMimic is accepted by AAAI 2025.
