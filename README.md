@@ -5,7 +5,7 @@
     <a href='https://github.com/JoeFannie' target='_blank'>Jiajiong Cao</a><sup>*</sup>&emsp;
     <a href='https://github.com/octavianChen' target='_blank'>Zhiquan Chen</a><sup></sup>&emsp;
     <a href='https://lymhust.github.io/' target='_blank'>Yuming Li</a><sup></sup>&emsp;
-    <a href='https://github.com/' target='_blank'>Chenguang Ma</a><sup></sup>
+    <a href='https://openreview.net/profile?id=~Chenguang_Ma3' target='_blank'>Chenguang Ma</a><sup></sup>
 </div>
 <div align='center'>
     *Equal Contribution.
