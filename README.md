@@ -1,14 +1,15 @@
 <h1 align='center'>EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning</h1>
 
 <div align='center'>
-    <a href='https://github.com/yuange250' target='_blank'>Zhiyuan Chen</a><sup>*</sup>&emsp;
-    <a href='https://github.com/JoeFannie' target='_blank'>Jiajiong Cao</a><sup>*</sup>&emsp;
-    <a href='https://github.com/octavianChen' target='_blank'>Zhiquan Chen</a><sup></sup>&emsp;
-    <a href='https://lymhust.github.io/' target='_blank'>Yuming Li</a><sup></sup>&emsp;
-    <a href='https://openreview.net/profile?id=~Chenguang_Ma3' target='_blank'>Chenguang Ma</a><sup></sup>
+    <a href='https://github.com/yuange250' target='_blank'>Zhiyuan Chen</a><sup>1</sup>&emsp;
+    <a href='https://github.com/JoeFannie' target='_blank'>Jiajiong Cao</a><sup>1</sup>&emsp;
+    <a href='https://github.com/octavianChen' target='_blank'>Zhiquan Chen</a>&emsp;
+    <a href='https://lymhust.github.io/' target='_blank'>Yuming Li</a><sup>2</sup>&emsp;
+    <a href='https://openreview.net/profile?id=~Chenguang_Ma3' target='_blank'>Chenguang Ma</a><sup>2</sup>
 </div>
 <div align='center'>
-    *Equal Contribution.
+    <sup>1</sup>Equal contribution&emsp;
+    <sup>2</sup>Corresponding author
 </div>
 
 <div align='center'>
