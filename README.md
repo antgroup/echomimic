@@ -8,8 +8,8 @@
     <a href='https://openreview.net/profile?id=~Chenguang_Ma3' target='_blank'>Chenguang Ma</a><sup>2</sup>
 </div>
 <div align='center'>
-    <sup>1</sup>Equal contribution&emsp;
-    <sup>2</sup>Corresponding author
+    <sup>1</sup>Equal Contribution&emsp;
+    <sup>2</sup>Corresponding Authors
 </div>
 
 <div align='center'>
