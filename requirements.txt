@@ -3,7 +3,7 @@ torchvision>=0.15.2,<=0.17.2
 torchaudio>=2.0.2,<=2.2.2
 mediapipe
 transformers>=4.38.2
-diffusers==0.24.0
+diffusers==0.38.0
 torchmetrics
 torchtyping
 tqdm
