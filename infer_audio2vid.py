@@ -207,7 +207,7 @@ def main():
                 rb, re, cb, ce = xyxy[1], xyxy[3], xyxy[0], xyxy[2]
                 r_pad = int((re - rb) * args.facemusk_dilation_ratio)
                 c_pad = int((ce - cb) * args.facemusk_dilation_ratio)
-                face_mask[rb - r_pad : re + r_pad, cb - c_pad : ce + c_pad] = 255
+                face_mask[max(0, rb - r_pad) : re + r_pad, max(0, cb - c_pad) : ce + c_pad] = 255
 
                 #### face crop
                 r_pad_crop = int((re - rb) * args.facecrop_dilation_ratio)
